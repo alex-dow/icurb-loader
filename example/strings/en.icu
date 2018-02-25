@@ -1,0 +1,7 @@
+root {
+  buttons {
+    OK { "Okay" }
+    cancel { "Cancel" }
+    save { "Save" }
+  }
+}

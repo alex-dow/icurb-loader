@@ -1,0 +1,7 @@
+root {
+  buttons {
+    OK { "D'Accord" }
+    cancel { "Annulé" }
+    save { "Enregistrer" }
+  }
+}

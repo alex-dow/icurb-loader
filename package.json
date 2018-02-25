@@ -1,0 +1,12 @@
+{
+  "name": "icurb-loader",
+  "version": "1.0.0",
+  "description": "Webpack loader for ICU Resource Bundles",
+  "main": "index.js",
+  "repository": "https://github.com/alex-dow/icurb-loader",
+  "author": "Alex Dow",
+  "license": "MIT",
+  "dependencies": {
+    "icu-converter": "^0.1.5"
+  }
+}
