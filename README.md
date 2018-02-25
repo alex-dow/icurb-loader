@@ -27,4 +27,4 @@ module.exports = {
 };
 ```
 
-See the [example project](https://github.com/alex-dow/icurb-loader) for a complete example.
+See the [example project](https://github.com/alex-dow/icurb-loader/tree/master/example) for a complete example.
